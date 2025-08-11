@@ -1,0 +1,6 @@
+data/color_palettes.json filter=lfs diff=lfs merge=lfs -text
+data/logos/**/*.gif filter=lfs diff=lfs merge=lfs -text
+data/logos/**/*.bmp filter=lfs diff=lfs merge=lfs -text
+data/logos/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+data/logos/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+data/logos/**/*.png filter=lfs diff=lfs merge=lfs -text
